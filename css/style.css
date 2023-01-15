@@ -92,6 +92,11 @@ h1{
 }
 
 /* css bagian destination */
+.pencarian {
+    width: 330px;
+    float: none;
+    margin-right: 270px;
+}
 .btn2{
     justify-items: center;
     background-color: #2ee1ee;

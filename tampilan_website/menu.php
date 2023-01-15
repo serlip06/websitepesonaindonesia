@@ -56,7 +56,7 @@
           <a class="nav-link" href="#destination.php">destination</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#book.php">Book</a>
+          <a class="nav-link" href="#recomendation.php">Rekomendasi</a>
         </li>
         
       </ul>
@@ -81,22 +81,22 @@
     <div class="carousel-item active" data-bs-interval="10000">
       <img src="../gambar/pantaingurtafurw1.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <h1>First slide</h1>
-        <p>Some representative placeholder content for the first slide.</p>
+        <h1>SELAMAT DATANG DIWEBSITE KAMI!!!</h1>
+        <p>Nikmati perjalan seru dan mengasikan</p>
       </div>
     </div>
     <div class="carousel-item" data-bs-interval="2000">
       <img src="../gambar/rajaampatw2.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <h1>Second slide </h1>
-        <p>Some representative placeholder content for the second slide.</p>
+        <h1>TOUR MENARIK </h1>
+        <p>Nikmati puluhan tour wista menarik</p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="../gambar/borobudurw3.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <h1>Third slide </h1>
-        <p>Some representative placeholder content for the third slide.</p>
+        <h1>WELCOME TO INDONESIA  </h1>
+        <p>puluhan pulau dan tempat wisata turis</p>
       </div>
     </div>
   </div>
@@ -162,103 +162,140 @@
         <h4>Why choose us</h4>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non est iusto numquam dolorem, voluptates deserunt ratione illo ipsa facere exercitationem?</p>
           <br>
-           <a href="servis.php" class="btn">Read more</a>
+           <a href="" class="btn">Read more</a>
       </div>
       <!-- <a href="servis.php" class="btn">Read more</a> -->
     </div>
-  
   </section>
 
   <!-- bagian destinasi -->
- <section id="destination">
+ <section id="destination.php">
  <h1 class="heading-title">Destination</h1>
  <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card h-100">
-      <img src="https://i.pinimg.com/564x/88/33/1f/88331fd1d1236900290656703c88ad1e.jpg" class="card-img-top" alt="...">
+      <img src="../gambar/Crad.borobudur9.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+        <h5 class="card-title">CANDI BOROBUDUR</h5>
+        <p class="card-text">Candi Budha bersejarah & ikonis</p>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="https://i.pinimg.com/564x/ea/56/3d/ea563d1f14ae4ee170bec1c784fbc67c.jpg" class="card-img-top" alt="...">
+      <img src="../gambar/cp2.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a short card.</p>
+        <h5 class="card-title">CANDI PRAMBANAN</h5>
+        <p class="card-text">Candi kuno hindu dipenuhi ornamen</p>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="https://i.pinimg.com/564x/fc/0c/d0/fc0cd009a78c7a4d640f956664e9aac6.jpg" class="card-img-top" alt="...">
+      <img src="../gambar/Crad.rajaampat8.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a short card.</p>
+        <h5 class="card-title">KABUPATEN RAJA AMPAT</h5>
+        <p class="card-text">Pantai & lukisan batu pantai Misool</p>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="..." class="card-img-top" alt="...">
+      <img src="../gambar/Crad8.p.komodo.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a short card.</p>
+        <h5 class="card-title">PULAU KOMODO</h5>
+        <p class="card-text">Komodo & menyelam di batu bolong</p>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="..." class="card-img-top" alt="...">
+      <img src="../gambar/Crad7.G.IJEN.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a short card.</p>
+        <h5 class="card-title">GUNGUNG IJEN</h5>
+        <p class="card-text">Pengunungan berapi dengan danau biru</p>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="..." class="card-img-top" alt="...">
+      <img src="../gambar/gilitrawangancrad8.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a short card.</p>
+        <h5 class="card-title">GILI TRAWANGAN</h5>
+        <p class="card-text">Pulau kecil,hotel & terowongan PD II</p>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="..." class="card-img-top" alt="...">
+      <img src="../gambar/Cradtanahlot10.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a short card.</p>
+        <h5 class="card-title">TANAH LOT</h5>
+        <p class="card-text">Pulau pura dengan pemandangan laut</p>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="..." class="card-img-top" alt="...">
+      <img src="../gambar/Crad.goagongpacitan10.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a short card.</p>
+        <h5 class="card-title">GOA GONG PACITAN </h5>
+        <p class="card-text">Gua dengan formasi warna-warni</p>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="..." class="card-img-top" alt="...">
+      <img src="../gambar/crad.bali2.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a short card.</p>
+        <h5 class="card-title">BALI</h5>
+        <p class="card-text">Pantai,arung jeram,bulan madu,selancar,dan kuil</p>
       </div>
     </div>
   </div>
-  <a href="destination.php" class="btn2" >Read more</a> 
+  <!-- <a href="https://www.google.com/travel/things-to-do/see-all?g2lb=2502548,2503771,2503781,4258168,4284970,4306835,4308226,4718358,4723331,4731329,4757164,4814050,4861688,4864715,4865467,4867855,4874190,4886082,4886480,4887607,4893075,4902277,4903082,4906050,4906852,4920622,4926165&hl=id-ID&gl=id&cs=1&ssta=1&dest_mid=/m/03ryn&dest_state_type=sattd&dest_src=ts&q=rekomendasi+tempat+wisata+indonesia" class="btn2" >Read more</a>  -->
+  <div class="pencarian">
+  <a href="https://www.google.com/travel/things-to-do/see-all?g2lb=2502548,2503771,2503781,4258168,4284970,4306835,4308226,4718358,4723331,4731329,4757164,4814050,4861688,4864715,4865467,4867855,4874190,4886082,4886480,4887607,4893075,4902277,4903082,4906050,4906852,4920622,4926165&hl=id-ID&gl=id&cs=1&ssta=1&dest_mid=/m/03ryn&dest_state_type=sattd&dest_src=ts&q=rekomendasi+tempat+wisata+indonesia" class="btn2" >Read more</a> 
+  </div>
 </div>
 
  </section>
 
+  <!-- rekomendasi -->
+  <section id="recomendation.php">
+  <h1 class="heading-title">Destination</h1>
+ <div class="row row-cols-1 row-cols-md-3 g-4">
+  <div class="col">
+    <div class="card h-100">
+      <img src="../gambar/Crad.borobudur9.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">CANDI BOROBUDUR</h5>
+        <p class="card-text">Candi Budha bersejarah & ikonis</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+      <img src="../gambar/cp2.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">CANDI PRAMBANAN</h5>
+        <p class="card-text">Candi kuno hindu dipenuhi ornamen</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+      <img src="../gambar/Crad.rajaampat8.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">KABUPATEN RAJA AMPAT</h5>
+        <p class="card-text">Pantai & lukisan batu pantai Misool</p>
+      </div>
+    </div>
+  </div>
+  <div class="pencarian">
+  <a href="../tabel/index2.php" class="btn2" >Read more</a> 
+  </div>
+  </section>
 
 
 
@@ -269,10 +306,6 @@
 
 
 
-
-
-<!--<a href="destination.php" class="btn2" >Read more</a>  -->
-<!-- <br> -->
 
 
 
